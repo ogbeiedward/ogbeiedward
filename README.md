@@ -6,7 +6,7 @@
 - 👀 I’m passionate about solving problems
 - ✨ Invite me to networking events
 - 💬 Ask me about my projects!
-- ⚡ Hope walk on mars soon
+- ⚡ Hope to walk on mars soon
 
 Let's connect! 
 
