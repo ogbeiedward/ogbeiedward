@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @ogbeiedward
-- 👀 I’m passionate about data and finding insights that make real differences in people's lives
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on ML projects
-- 📫 How to reach me ogbeiedward@gmail.com
+## Hi guys 👋
 
-<!---
-ogbeiedward/ogbeiedward is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m currently adding more skills to my repertoire
+- 🌱 I’m working on becoming proficient in Python
+- 👯 Looking to collaborate on any open source projects
+- 👀 I’m passionate about solving problems
+- ✨ Invite me to networking events
+- 💬 Ask me about my projects!
+- ⚡ Hope walk on mars soon
+
+Let's connect! 
+
+<kbd><a href= 'https://www.linkedin.com/in/edward-ogbei/' rel="nofollow"><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a></kbd>
+<kbd><a href="https://medium.com/@ogbeiedward" rel="nofollow"><img src= "https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" /></a></kbd>
+<kbd><a href="mailto:ogbeiedward@gmail.com" rel="nofollow"><img src= "https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" /></a></kbd>
