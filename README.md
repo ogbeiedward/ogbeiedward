@@ -1,8 +1,8 @@
 ## Hi guys 👋
 
 - 🔭 I’m currently adding more skills to my repertoire
-- 🌱 I’m working on becoming proficient in Python
-- 👯 Looking to collaborate on any open source projects
+- 🌱 I’m working on becoming proficient in ML
+- 👯 Looking to collaborate on any ML projects
 - 👀 I’m passionate about solving problems
 - ✨ Invite me to networking events
 - 💬 Ask me about my projects!
