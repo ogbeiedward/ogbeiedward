@@ -1,12 +1,12 @@
 ## Hi guys 👋
 
-- 🔭 I’m currently adding more skills to my repertoire
+- 🔭 I’m currently transforming healthcare experiences
 - 🌱 I’m working on becoming proficient in ML
 - 👯 Looking to collaborate on any ML projects
 - 👀 I’m passionate about solving problems
 - ✨ Invite me to networking events
 - 💬 Ask me about my projects!
-- ⚡ Hope to walk on mars soon
+- ⚡ Hope to walk on Mars soon
 
 Let's connect! 
 
