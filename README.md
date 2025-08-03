@@ -2,7 +2,7 @@
 
 I'm a **DevOps & AI/ML Engineer** who loves building efficient systems, automating the boring stuff, and keeping infrastructure smooth and secure.
 
-💻 Mostly working with cloud platforms (AWS, Azure), CI/CD, Python, and containers.  
+💻 Mostly working with cloud platforms, CI/CD, Python, and containers.  
 🧠 Exploring the intersection of AI and operations.  
 🌍 Based in Poland | Always learning.
 
